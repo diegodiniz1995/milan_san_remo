@@ -1,6 +1,6 @@
 # **Análise do Perfil dos Ciclistas Campeões da Milan-San Remo**
 
-![Milan-San Remo](https://en.wikipedia.org/wiki/Milan%E2%80%93San_Remo#/media/File:Milan%E2%80%93San_Remo_logo.svg)
+![Milan-San Remo](https://upload.wikimedia.org/wikipedia/de/3/33/Milano_Sanremo_Logo.svg)
 
 Este projeto tem como objetivo analisar deo perfil dos ciclistas que foram campeões da lendária corrida de ciclismo Milan-San Remo! Este repositório contém  informações e gráficos com as principais características dos atletas que se sagraram campeão da prova no século XX
 
